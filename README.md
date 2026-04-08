@@ -1,2 +1,2 @@
 # loanapproval
-Fair Loan Approval Prediction
+Fair Loan Approval Prediction(accuracy)
